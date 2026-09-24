@@ -50,7 +50,7 @@ In our house, we currently charge all our devices in one place, and there aren't
 
 #### The Custom Ideal Diode Module (5x) - Order Total (for 5x): $29.12
 
-Check the [ideal diode folder](https://github.com/22yeets22/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
+Check the [ideal diode folder](https://github.com/lekangji/MacroUPS/tree/main/Ideal%20Diode) for specific BOM, gerber, pickandplace, as well as source files + images.
 
 > [!IMPORTANT]
 > There is a folder named `DONOTUSE` with the old versions. The mosfet is the wrong direction in those versions, so please don't use them unless you like expensive paperweights.
